@@ -1,0 +1,37 @@
+/*Main page content*/
+main div.intro{
+    background-image: url('../images/background3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(20, 17, 17);
+    text-align: center;
+    font-size: larger;
+    padding: 200px;
+    margin-top: 20px;  
+    margin-bottom: 20px; 
+}
+
+main div.questions{
+    border-top: 2px solid black; 
+    margin: 20px;
+    text-align: center;
+    margin-top: 20px;    
+
+
+}
+
+
+/*Footer content...............................................................*/
+footer{
+    margin: 50px;
+    border: 30px;
+    border-style: none;
+}
+
+footer table{
+    border-top: 1px solid black;
+}
+
+
+

@@ -1,0 +1,53 @@
+body{
+    color: rgb(16, 6, 6);
+    text-align: center;
+    font-size: larger;
+ }
+ 
+ body form{
+     margin: 10px;
+     border-top: 2px solid rgb(13, 11, 11);
+     padding: 10px;
+ 
+ }
+ body form input{
+     margin: 10px;
+ 
+ }
+ 
+ 
+ #exit{
+     background-color: blue;
+     color: white;
+     width: 150px;
+     height: 30px;
+ }
+ 
+ #exit:hover{
+     background-color: red;
+     color: white;
+ }
+ 
+ #addaccount{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
+
+#addaccount:hover{
+    background-color: red;
+    color: white;
+}
+
+#addopportunity{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
+
+#addopportunity:hover{
+    background-color: red;
+    color: white;
+}

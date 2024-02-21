@@ -1,0 +1,37 @@
+body{
+   background-image: url('../images/background1.jpg'); 
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   color: white;
+   text-align: center;
+   font-size: larger;
+}
+
+body form{
+    margin: 10px;
+    border-top: 2px solid white;
+    padding: 10px;
+
+}
+body form input{
+    margin: 10px;
+
+}
+
+body form a{
+    color:rgb(226, 43, 43);
+}
+
+
+#registeruser{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
+
+#registeruser:hover{
+    background-color: red;
+    color: white;
+}
